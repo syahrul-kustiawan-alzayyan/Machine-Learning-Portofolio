@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Portfolio
+# 🤖 Machine Learning Portofolio
 
 Selamat datang di **Machine Learning Portfolio** saya!  
 Repository ini berisi kumpulan proyek yang saya kerjakan untuk mempelajari dan mengimplementasikan **Machine Learning** dan **Deep Learning**. Semua proyek di sini dirancang sebagai portofolio yang menunjukkan pemahaman saya dalam membangun solusi AI end-to-end.
